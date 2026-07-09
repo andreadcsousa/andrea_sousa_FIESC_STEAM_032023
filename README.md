@@ -1,4 +1,4 @@
-# 💼 Profissionais STEAM em Santa Catarina (Case Técnico FIESC)
+# 💼 Profissionais STEAM em Santa Catarina
 
 Este repositório apresenta a resolução de um estudo de caso prático real, desenvolvido para o processo seletivo do **Observatório da FIESC (IEL)**. O projeto validou minhas competências analíticas e estratégicas, resultando na minha aprovação e contratação para a vaga. O objetivo foi utilizar microdados oficiais do Novo CAGED para investigar o mercado de trabalho de profissionais das áreas de **STEAM** (Ciência, Tecnologia, Engenharia e Matemática) no estado de Santa Catarina.
 
